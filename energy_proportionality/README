@@ -1,0 +1,24 @@
+2007: "The Case for Energy-Proportional Computing"
+__________________________________________________
+
+- focus on energy and utilization relative to memory and disk subsystems
+- reference to the complex nature of the network external to the system
+- emphasis on mode of operation of servers vs laptops (i.e. general purpose devices)
+
+------------------------------------------------------------------------------------
+
+2014: "Towards Energy-Proportionality for Large-Scale Latency-Critical Workloads"
+_________________________________________________________________________________
+
+- presents Pegasus: a feedback controller that adjusts power settings
+- emphasis on shortcomings of processor frequency scaling subsystems
+- exposes headroom in latency measurements that calls for a tradeoff between latency and power
+
+----------------------------------------------------------------------------------------------
+
+
+
+
+
+
+

@@ -1,0 +1,22 @@
+Relevant Literature on Power Management for High-Performance Systems
+____________________________________________________________________
+
+Energy Proportionality:
+-----------------------
+Literature related to maximizing the utilization of server-like systems.
+- Relevance: expoliting processor frequency scaling to optimize for energy
+- Going further: exploiting frequency scaling in tandem with network interrupt coalescing 
+		 to optimize for energy in network-facing servers
+
+Power Management:
+-----------------
+Literature on hardware and system control for power management.
+
+
+
+
+
+
+
+
+
