@@ -1,12 +1,18 @@
 Relevant Literature on Power Management for High-Performance Systems
 ____________________________________________________________________
 
+The papers in this directory consider the problem of power management as the scale of world-wide computation rises. They each present an observed phenomenon/problem with respect to power management and a proposed solution for it. These papers similarly provide systematic solutions, despite the different designs and implementations of these solutions. Some solutions work at the system software level, whereby change can be affected in system mechanisms, e.g. scheduling. Other solutions work at a lower level, whereby change is affected in power management mechanisms - e.g. processor frequency scaling and/or sleep states. 
+
+It is important to position our proposed work in reference to these pieces of literature. 
+To do this successfully, we must understand the underlying problems that these papers isolate - how do they relate to the problem that we isolate - as well as the scope of the solution that they present - how does it relate to the scope that we aim to affect.
+
+____________________________________________________________________
+
 Energy Proportionality:
 -----------------------
 Literature related to maximizing the utilization of server-like systems.
 - Relevance: expoliting processor frequency scaling to optimize for energy
-- Going further: exploiting frequency scaling in tandem with network interrupt coalescing 
-		 to optimize for energy in network-facing servers
+- Going further: exploiting frequency scaling in tandem with network interrupt coalescing to optimize for energy in network-facing servers
 
 Power Management:
 -----------------
